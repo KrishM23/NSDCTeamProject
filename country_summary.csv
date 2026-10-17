@@ -1,0 +1,117 @@
+country,country_iso2,country_iso3,continent,subregion,osm_facilities,with_name,with_operator,with_city,with_footprint,total_footprint_m2,median_footprint_m2,kind_colocation,kind_financial,kind_government_or_public,kind_hyperscale,kind_research_or_academic,kind_telecom_carrier,kind_unclassified
+United States of America,US,USA,North America,Northern America,1789,1350,1139,844,1650,37935947,11341,319,23,0,443,13,49,942
+France,FR,FRA,Europe,Western Europe,371,287,286,79,278,1591964,2061,55,3,0,1,10,24,278
+Germany,DE,DEU,Europe,Western Europe,300,208,184,146,260,1341617,2250,74,0,0,0,7,12,207
+United Kingdom,GB,GBR,Europe,Northern Europe,293,241,205,143,264,1819135,3855,51,4,0,9,3,10,216
+Netherlands,NL,NLD,Europe,Western Europe,167,114,103,81,98,2405700,5380,50,0,0,15,0,6,96
+Australia,AU,AUS,Oceania,Australia and New Zealand,139,126,115,0,132,800667,4451,23,0,0,15,0,5,96
+Japan,JP,JPN,Asia,Eastern Asia,127,95,82,9,68,270889,2484,8,1,0,1,0,0,117
+China,CN,CHN,Asia,Eastern Asia,125,90,17,2,97,2709871,6613,0,1,0,2,0,0,122
+Canada,CA,CAN,North America,Northern America,88,66,48,46,57,631520,6447,24,1,1,3,0,0,59
+Ireland,IE,IRL,Europe,Northern Europe,86,66,64,5,84,944262,8987,17,0,0,39,0,2,28
+Russia,RU,RUS,Europe,Eastern Europe,79,61,37,19,61,1049991,2865,0,0,0,0,0,7,72
+India,IN,IND,Asia,Southern Asia,73,62,19,5,31,183881,3148,4,0,1,0,0,0,68
+Italy,IT,ITA,Europe,Southern Europe,72,52,43,17,47,195094,2007,13,0,0,2,1,0,56
+Singapore,SG,SGP,Asia,South-Eastern Asia,60,56,8,51,10,84080,5612,17,0,0,7,0,3,33
+Brazil,BR,BRA,South America,South America,58,48,26,14,45,1445076,2257,11,0,0,0,0,3,44
+South Africa,ZA,ZAF,Africa,Southern Africa,54,30,33,2,52,437193,4932,2,1,0,3,0,0,48
+Spain,ES,ESP,Europe,Southern Europe,49,40,31,9,43,579272,3920,12,2,3,4,0,0,28
+Argentina,AR,ARG,South America,South America,43,33,18,5,23,41399,692,0,0,0,0,0,8,35
+Belgium,BE,BEL,Europe,Western Europe,43,35,28,4,31,1072039,3343,4,0,0,4,0,1,34
+New Zealand,NZ,NZL,Oceania,Australia and New Zealand,35,29,18,4,35,116127,1408,1,0,1,3,0,1,29
+Switzerland,CH,CHE,Europe,Western Europe,35,29,25,19,25,91482,3765,9,0,0,0,0,1,25
+Indonesia,ID,IDN,Asia,South-Eastern Asia,33,32,25,4,21,139864,6440,1,0,0,7,1,0,24
+Mexico,MX,MEX,North America,Central America,32,29,23,0,31,742864,15902,2,0,0,1,0,0,29
+Finland,FI,FIN,Europe,Northern Europe,31,18,18,19,23,373425,4276,5,0,0,4,0,1,21
+Sweden,SE,SWE,Europe,Northern Europe,31,25,24,4,24,385034,22640,2,0,0,14,0,0,15
+Poland,PL,POL,Europe,Eastern Europe,29,21,16,21,26,127665,3268,4,1,0,0,0,1,23
+Chile,CL,CHL,South America,South America,26,23,11,4,21,315030,5107,2,0,0,7,0,0,17
+Iceland,IS,ISL,Europe,Northern Europe,25,22,20,17,24,245532,1491,0,0,0,0,0,0,25
+Denmark,DK,DNK,Europe,Northern Europe,24,17,17,0,19,677410,5613,4,0,0,5,0,0,15
+Malaysia,MY,MYS,Asia,South-Eastern Asia,24,8,1,2,19,300002,12895,0,0,0,0,0,0,24
+Czechia,CZ,CZE,Europe,Eastern Europe,23,23,11,3,14,30196,2118,0,0,0,0,0,0,23
+Hungary,HU,HUN,Europe,Eastern Europe,22,13,16,13,10,43057,2080,0,0,0,0,0,4,18
+Iran,IR,IRN,Asia,Southern Asia,22,19,6,4,11,8172,285,0,0,0,0,2,1,19
+Norway,NO,NOR,Europe,Northern Europe,18,10,7,1,15,100810,4076,0,0,0,0,0,0,18
+Philippines,PH,PHL,Asia,South-Eastern Asia,18,13,5,4,7,13581,50,0,0,1,0,3,0,14
+Portugal,PT,PRT,Europe,Southern Europe,18,9,9,1,14,96470,2595,1,0,0,0,0,2,15
+Hong Kong S.A.R.,HK,HKG,Asia,Eastern Asia,17,12,3,2,17,110003,5471,1,0,1,0,0,0,15
+Turkey,TR,TUR,Asia,Western Asia,17,16,11,5,12,82467,3876,0,0,0,0,0,4,13
+United Arab Emirates,AE,ARE,Asia,Western Asia,16,13,10,2,13,7168057,10219,2,0,0,3,0,0,11
+Austria,AT,AUT,Europe,Western Europe,15,14,9,10,12,55327,3384,1,0,0,1,0,2,11
+South Korea,KR,KOR,Asia,Eastern Asia,14,11,8,2,12,131127,4659,0,0,0,0,0,0,14
+Croatia,HR,HRV,Europe,Southern Europe,13,11,9,2,4,47543,1888,0,0,0,0,0,2,11
+Venezuela,VE,VEN,South America,South America,13,12,12,4,9,15492,1152,0,0,0,0,1,0,12
+Colombia,CO,COL,South America,South America,11,6,1,0,10,10078,286,0,0,0,0,0,2,9
+Luxembourg,LU,LUX,Europe,Western Europe,10,9,4,7,9,53094,5372,0,0,0,0,0,1,9
+Pakistan,PK,PAK,Asia,Southern Asia,10,10,1,0,1,577,577,0,0,0,0,0,0,10
+Peru,PE,PER,South America,South America,10,9,7,2,6,5822,344,0,0,0,0,0,0,10
+Taiwan,TW,TWN,Asia,Eastern Asia,10,4,2,3,9,82740,1436,0,0,0,0,0,0,10
+Vietnam,VN,VNM,Asia,South-Eastern Asia,10,9,9,0,8,31838,2249,0,0,0,0,0,0,10
+Greece,GR,GRC,Europe,Southern Europe,8,7,2,1,7,7051,1049,0,0,0,0,0,0,8
+Bulgaria,BG,BGR,Europe,Eastern Europe,7,7,4,0,3,2115,415,2,0,0,0,0,1,4
+Costa Rica,CR,CRI,North America,Central America,7,7,4,1,5,33557,5033,0,1,0,2,0,0,4
+Bangladesh,BD,BGD,Asia,Southern Asia,6,3,0,0,5,59812,7912,0,0,0,0,0,0,6
+Ecuador,EC,ECU,South America,South America,6,6,2,1,2,4392,4330,0,0,0,0,0,0,6
+Kazakhstan,KZ,KAZ,Asia,Central Asia,6,5,0,0,4,150285,1284,0,0,0,0,0,0,6
+Latvia,LV,LVA,Europe,Northern Europe,6,0,3,1,1,3870,3870,0,0,0,0,0,0,6
+Morocco,MA,MAR,Africa,Northern Africa,6,6,1,1,1,13197,13197,0,0,0,0,0,0,6
+Ukraine,UA,UKR,Europe,Eastern Europe,6,3,3,0,1,5401,5401,0,0,0,1,0,0,5
+Israel,IL,ISR,Asia,Western Asia,5,1,0,0,4,31881,8144,0,0,0,0,0,0,5
+Lithuania,LT,LTU,Europe,Northern Europe,5,1,2,3,5,7657,1239,0,0,0,0,0,1,4
+Romania,RO,ROU,Europe,Eastern Europe,5,4,2,3,0,,,0,0,0,0,0,1,4
+Slovakia,SK,SVK,Europe,Eastern Europe,5,4,3,0,3,426,62,0,0,0,0,0,1,4
+Thailand,TH,THA,Asia,South-Eastern Asia,5,4,1,0,5,14310,3252,1,0,0,0,0,0,4
+Azerbaijan,AZ,AZE,Asia,Western Asia,4,4,1,0,3,4194,1972,0,0,0,0,0,0,4
+Bahrain,BH,BHR,Asia,Western Asia,4,4,4,0,4,32588,10477,0,0,0,3,0,0,1
+El Salvador,SV,SLV,North America,Central America,4,2,0,0,4,52372,14326,0,0,0,0,0,0,4
+Iraq,IQ,IRQ,Asia,Western Asia,4,4,1,0,1,870,870,0,0,0,0,0,0,4
+Belarus,BY,BLR,Europe,Eastern Europe,3,2,2,2,3,10454,2632,0,0,0,0,0,0,3
+Georgia,GE,GEO,Asia,Western Asia,3,3,0,0,2,3713,3171,0,0,0,0,0,0,3
+Slovenia,SI,SVN,Europe,Southern Europe,3,2,1,0,2,1474,1461,0,0,0,0,0,0,3
+Armenia,AM,ARM,Asia,Western Asia,2,2,2,1,1,970,970,0,0,0,0,0,0,2
+Bolivia,BO,BOL,South America,South America,2,2,1,2,1,734,734,0,0,0,0,0,1,1
+Ghana,GH,GHA,Africa,Western Africa,2,2,1,0,1,10274,10274,0,0,1,0,0,0,1
+Isle of Man,IM,IMN,Europe,Northern Europe,2,2,1,2,2,3712,2454,0,0,0,0,0,0,2
+Kenya,KE,KEN,Africa,Eastern Africa,2,1,0,0,0,,,0,0,0,0,0,0,2
+Lebanon,LB,LBN,Asia,Western Asia,2,2,1,0,1,881,881,0,0,0,1,0,0,1
+Lesotho,LS,LSO,Africa,Southern Africa,2,0,0,0,2,1763,1360,0,0,0,0,0,0,2
+Malawi,MW,MWI,Africa,Eastern Africa,2,2,0,0,1,126,126,0,0,0,0,0,0,2
+Moldova,MD,MDA,Europe,Eastern Europe,2,2,0,1,0,,,0,0,0,0,0,0,2
+Nepal,NP,NPL,Asia,Southern Asia,2,2,1,0,0,,,0,0,0,0,0,0,2
+North Macedonia,MK,MKD,Europe,Southern Europe,2,1,1,0,2,678,585,0,0,0,0,0,0,2
+Papua New Guinea,PG,PNG,Oceania,Melanesia,2,1,1,0,2,890,858,0,0,0,0,0,1,1
+Puerto Rico,PR,PRI,North America,Caribbean,2,1,2,1,1,2156,2156,0,0,0,1,0,0,1
+Republic of Serbia,RS,SRB,Europe,Southern Europe,2,1,1,0,2,7765,6986,0,0,0,0,0,0,2
+Saudi Arabia,SA,SAU,Asia,Western Asia,2,1,1,0,2,59672,56454,0,0,0,0,0,0,2
+Sri Lanka,LK,LKA,Asia,Southern Asia,2,2,1,1,1,1967,1967,0,0,0,0,0,1,1
+Uganda,UG,UGA,Africa,Eastern Africa,2,2,1,0,1,3480,3480,0,0,0,0,0,0,2
+Uruguay,UY,URY,South America,South America,2,2,2,1,1,7214,7214,0,0,0,1,0,0,1
+Albania,AL,ALB,Europe,Southern Europe,1,1,0,0,1,110,110,0,0,0,0,0,0,1
+Angola,AO,AGO,Africa,Middle Africa,1,0,0,0,1,69,69,0,0,0,0,0,0,1
+Bhutan,BT,BTN,Asia,Southern Asia,1,1,1,0,0,,,0,0,0,0,0,0,1
+Cabo Verde,CV,CPV,Africa,Western Africa,1,1,0,0,0,,,0,0,0,0,0,0,1
+Curaçao,CW,CUW,North America,Caribbean,1,1,0,0,1,5260,5260,0,0,0,0,0,0,1
+Dominican Republic,DO,DOM,North America,Caribbean,1,1,1,0,0,,,0,0,0,1,0,0,0
+Egypt,EG,EGY,Africa,Northern Africa,1,1,1,0,0,,,0,0,0,0,0,0,1
+Ethiopia,ET,ETH,Africa,Eastern Africa,1,0,0,0,1,72,72,0,0,0,0,0,0,1
+Faroe Islands,FO,FRO,Europe,Northern Europe,1,1,0,0,0,,,0,0,0,0,0,0,1
+Ivory Coast,CI,CIV,Africa,Western Africa,1,1,1,0,1,2627,2627,0,0,0,0,0,0,1
+Kosovo,XK,,Europe,Southern Europe,1,1,0,1,0,,,0,0,0,0,0,0,1
+Laos,LA,LAO,Asia,South-Eastern Asia,1,1,0,0,1,10183,10183,0,0,0,0,0,0,1
+Macao S.A.R,MO,MAC,Asia,Eastern Asia,1,1,0,0,1,667,667,0,0,0,0,0,0,1
+Madagascar,MG,MDG,Africa,Eastern Africa,1,0,0,0,1,418,418,0,0,0,0,0,0,1
+Mauritius,MU,MUS,Seven seas (open ocean),Eastern Africa,1,1,1,0,1,1900,1900,0,0,0,0,0,0,1
+Mozambique,MZ,MOZ,Africa,Eastern Africa,1,1,0,0,0,,,0,0,0,0,0,0,1
+Nauru,NR,NRU,Oceania,Micronesia,1,1,0,0,0,,,0,0,0,0,0,0,1
+New Caledonia,NC,NCL,Oceania,Melanesia,1,1,1,1,1,82,82,0,0,0,0,0,0,1
+Nigeria,NG,NGA,Africa,Western Africa,1,1,1,0,0,,,0,0,0,0,1,0,0
+Palestine,PS,PSE,Asia,Western Asia,1,1,0,0,1,4187,4187,0,0,0,0,0,0,1
+Panama,PA,PAN,North America,Central America,1,1,0,0,1,822,822,0,0,0,0,0,0,1
+Paraguay,PY,PRY,South America,South America,1,1,0,0,0,,,0,0,0,0,0,0,1
+Syria,SY,SYR,Asia,Western Asia,1,1,0,0,0,,,0,0,0,0,0,0,1
+Trinidad and Tobago,TT,TTO,North America,Caribbean,1,1,1,1,1,412,412,0,0,0,1,0,0,0
+Tunisia,TN,TUN,Africa,Northern Africa,1,1,0,0,0,,,0,0,0,0,0,0,1
+Tuvalu,TV,TUV,Oceania,Polynesia,1,1,0,0,1,252,252,0,0,0,0,0,1,0
+United Republic of Tanzania,TZ,TZA,Africa,Eastern Africa,1,0,1,0,1,9264,9264,0,0,0,0,0,0,1
+Uzbekistan,UZ,UZB,Asia,Central Asia,1,1,1,0,0,,,1,0,0,0,0,0,0
