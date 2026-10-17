@@ -1,0 +1,117 @@
+country,continent,subregion,osm_facilities,total_footprint_m2,median_footprint_m2,kind_research_or_academic
+United States of America,North America,Northern America,1789,37935947.0,11341.0,13
+France,Europe,Western Europe,371,1591964.0,2061.0,10
+Germany,Europe,Western Europe,300,1341617.0,2250.0,7
+United Kingdom,Europe,Northern Europe,293,1819135.0,3855.0,3
+Netherlands,Europe,Western Europe,167,2405700.0,5380.0,0
+Australia,Oceania,Australia and New Zealand,139,800667.0,4451.0,0
+Japan,Asia,Eastern Asia,127,270889.0,2484.0,0
+China,Asia,Eastern Asia,125,2709871.0,6613.0,0
+Canada,North America,Northern America,88,631520.0,6447.0,0
+Ireland,Europe,Northern Europe,86,944262.0,8987.0,0
+Russia,Europe,Eastern Europe,79,1049991.0,2865.0,0
+India,Asia,Southern Asia,73,183881.0,3148.0,0
+Italy,Europe,Southern Europe,72,195094.0,2007.0,1
+Singapore,Asia,South-Eastern Asia,60,84080.0,5612.0,0
+Brazil,South America,South America,58,1445076.0,2257.0,0
+South Africa,Africa,Southern Africa,54,437193.0,4932.0,0
+Spain,Europe,Southern Europe,49,579272.0,3920.0,0
+Argentina,South America,South America,43,41399.0,692.0,0
+Belgium,Europe,Western Europe,43,1072039.0,3343.0,0
+New Zealand,Oceania,Australia and New Zealand,35,116127.0,1408.0,0
+Switzerland,Europe,Western Europe,35,91482.0,3765.0,0
+Indonesia,Asia,South-Eastern Asia,33,139864.0,6440.0,1
+Mexico,North America,Central America,32,742864.0,15902.0,0
+Finland,Europe,Northern Europe,31,373425.0,4276.0,0
+Sweden,Europe,Northern Europe,31,385034.0,22640.0,0
+Poland,Europe,Eastern Europe,29,127665.0,3268.0,0
+Chile,South America,South America,26,315030.0,5107.0,0
+Iceland,Europe,Northern Europe,25,245532.0,1491.0,0
+Denmark,Europe,Northern Europe,24,677410.0,5613.0,0
+Malaysia,Asia,South-Eastern Asia,24,300002.0,12895.0,0
+Czechia,Europe,Eastern Europe,23,30196.0,2118.0,0
+Hungary,Europe,Eastern Europe,22,43057.0,2080.0,0
+Iran,Asia,Southern Asia,22,8172.0,285.0,2
+Norway,Europe,Northern Europe,18,100810.0,4076.0,0
+Philippines,Asia,South-Eastern Asia,18,13581.0,50.0,3
+Portugal,Europe,Southern Europe,18,96470.0,2595.0,0
+Hong Kong S.A.R.,Asia,Eastern Asia,17,110003.0,5471.0,0
+Turkey,Asia,Western Asia,17,82467.0,3876.0,0
+United Arab Emirates,Asia,Western Asia,16,7168057.0,10219.0,0
+Austria,Europe,Western Europe,15,55327.0,3384.0,0
+South Korea,Asia,Eastern Asia,14,131127.0,4659.0,0
+Croatia,Europe,Southern Europe,13,47543.0,1888.0,0
+Venezuela,South America,South America,13,15492.0,1152.0,1
+Colombia,South America,South America,11,10078.0,286.0,0
+Luxembourg,Europe,Western Europe,10,53094.0,5372.0,0
+Pakistan,Asia,Southern Asia,10,577.0,577.0,0
+Peru,South America,South America,10,5822.0,344.0,0
+Taiwan,Asia,Eastern Asia,10,82740.0,1436.0,0
+Vietnam,Asia,South-Eastern Asia,10,31838.0,2249.0,0
+Greece,Europe,Southern Europe,8,7051.0,1049.0,0
+Bulgaria,Europe,Eastern Europe,7,2115.0,415.0,0
+Costa Rica,North America,Central America,7,33557.0,5033.0,0
+Bangladesh,Asia,Southern Asia,6,59812.0,7912.0,0
+Ecuador,South America,South America,6,4392.0,4330.0,0
+Kazakhstan,Asia,Central Asia,6,150285.0,1284.0,0
+Latvia,Europe,Northern Europe,6,3870.0,3870.0,0
+Morocco,Africa,Northern Africa,6,13197.0,13197.0,0
+Ukraine,Europe,Eastern Europe,6,5401.0,5401.0,0
+Israel,Asia,Western Asia,5,31881.0,8144.0,0
+Lithuania,Europe,Northern Europe,5,7657.0,1239.0,0
+Romania,Europe,Eastern Europe,5,,,0
+Slovakia,Europe,Eastern Europe,5,426.0,62.0,0
+Thailand,Asia,South-Eastern Asia,5,14310.0,3252.0,0
+Azerbaijan,Asia,Western Asia,4,4194.0,1972.0,0
+Bahrain,Asia,Western Asia,4,32588.0,10477.0,0
+El Salvador,North America,Central America,4,52372.0,14326.0,0
+Iraq,Asia,Western Asia,4,870.0,870.0,0
+Belarus,Europe,Eastern Europe,3,10454.0,2632.0,0
+Georgia,Asia,Western Asia,3,3713.0,3171.0,0
+Slovenia,Europe,Southern Europe,3,1474.0,1461.0,0
+Armenia,Asia,Western Asia,2,970.0,970.0,0
+Bolivia,South America,South America,2,734.0,734.0,0
+Ghana,Africa,Western Africa,2,10274.0,10274.0,0
+Isle of Man,Europe,Northern Europe,2,3712.0,2454.0,0
+Kenya,Africa,Eastern Africa,2,,,0
+Lebanon,Asia,Western Asia,2,881.0,881.0,0
+Lesotho,Africa,Southern Africa,2,1763.0,1360.0,0
+Malawi,Africa,Eastern Africa,2,126.0,126.0,0
+Moldova,Europe,Eastern Europe,2,,,0
+Nepal,Asia,Southern Asia,2,,,0
+North Macedonia,Europe,Southern Europe,2,678.0,585.0,0
+Papua New Guinea,Oceania,Melanesia,2,890.0,858.0,0
+Puerto Rico,North America,Caribbean,2,2156.0,2156.0,0
+Republic of Serbia,Europe,Southern Europe,2,7765.0,6986.0,0
+Saudi Arabia,Asia,Western Asia,2,59672.0,56454.0,0
+Sri Lanka,Asia,Southern Asia,2,1967.0,1967.0,0
+Uganda,Africa,Eastern Africa,2,3480.0,3480.0,0
+Uruguay,South America,South America,2,7214.0,7214.0,0
+Albania,Europe,Southern Europe,1,110.0,110.0,0
+Angola,Africa,Middle Africa,1,69.0,69.0,0
+Bhutan,Asia,Southern Asia,1,,,0
+Cabo Verde,Africa,Western Africa,1,,,0
+Curaçao,North America,Caribbean,1,5260.0,5260.0,0
+Dominican Republic,North America,Caribbean,1,,,0
+Egypt,Africa,Northern Africa,1,,,0
+Ethiopia,Africa,Eastern Africa,1,72.0,72.0,0
+Faroe Islands,Europe,Northern Europe,1,,,0
+Ivory Coast,Africa,Western Africa,1,2627.0,2627.0,0
+Kosovo,Europe,Southern Europe,1,,,0
+Laos,Asia,South-Eastern Asia,1,10183.0,10183.0,0
+Macao S.A.R,Asia,Eastern Asia,1,667.0,667.0,0
+Madagascar,Africa,Eastern Africa,1,418.0,418.0,0
+Mauritius,Seven seas (open ocean),Eastern Africa,1,1900.0,1900.0,0
+Mozambique,Africa,Eastern Africa,1,,,0
+Nauru,Oceania,Micronesia,1,,,0
+New Caledonia,Oceania,Melanesia,1,82.0,82.0,0
+Nigeria,Africa,Western Africa,1,,,1
+Palestine,Asia,Western Asia,1,4187.0,4187.0,0
+Panama,North America,Central America,1,822.0,822.0,0
+Paraguay,South America,South America,1,,,0
+Syria,Asia,Western Asia,1,,,0
+Trinidad and Tobago,North America,Caribbean,1,412.0,412.0,0
+Tunisia,Africa,Northern Africa,1,,,0
+Tuvalu,Oceania,Polynesia,1,252.0,252.0,0
+United Republic of Tanzania,Africa,Eastern Africa,1,9264.0,9264.0,0
+Uzbekistan,Asia,Central Asia,1,,,0
