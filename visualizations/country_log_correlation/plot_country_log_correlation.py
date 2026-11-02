@@ -18,7 +18,8 @@ import matplotlib.pyplot as plt
 
 
 SCRIPT_DIR = Path(__file__).resolve().parent
-DEFAULT_INPUT = SCRIPT_DIR / "clean_country_summary.csv"
+PROJECT_DIR = SCRIPT_DIR.parent.parent
+DEFAULT_INPUT = PROJECT_DIR / "clean_country_summary.csv"
 DEFAULT_OUTPUT = SCRIPT_DIR / "country_facilities_vs_footprint_log.png"
 
 CONTINENT_COLORS = {
